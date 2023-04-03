@@ -48,6 +48,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<PackageReference Include="Camera.MAUI" Version="1.2.1" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
 	</ItemGroup>
 
